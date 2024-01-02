@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "Basic web crawler",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J-zeringue/WebCrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J-zeringue/WebCrawler/issues"
+  },
+  "homepage": "https://github.com/J-zeringue/WebCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
